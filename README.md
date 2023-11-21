@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SakthivelVeerasangili
 - 👀 I’m interested in Website development
-- 🌱 I’m currently learning Frontend
+- 🌱 I’m currently learning reactjs Frontend development
 - 📫 How to reach me sakthivelveeraa@gmail.com
 
 <!---
