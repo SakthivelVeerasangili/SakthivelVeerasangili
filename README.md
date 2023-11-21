@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @SakthivelVeerasangili
 - 👀 I’m interested in Website development
 - 🌱 I’m currently learning Frontend
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me sakthivelveeraa@gmail.com
 
 <!---
 SakthivelVeerasangili/SakthivelVeerasangili is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
